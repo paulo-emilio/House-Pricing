@@ -1,6 +1,6 @@
 # Previsão de Preços de Casas com Regressão Linear
 
-## Descrição do Projeto
+## Visão Geral
 Este projeto utiliza a técnica de Regressão Linear para prever os preços de casas com base em diversas características. Além disso, um simulador interativo foi desenvolvido para permitir que os usuários insiram as características das casas e obtenham previsões de preços.
 
 ![Simulador](screenshots_and_gifs/simulador.gif)
