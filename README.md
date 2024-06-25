@@ -5,6 +5,13 @@ Este projeto utiliza a técnica de Regressão Linear para prever os preços de c
 
 ![Simulador](screenshots_and_gifs/simulador.gif)
 
+## Tecnologias Utilizadas
+- Python
+- Jupyter Notebook
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- scikit-learn, statsmodels
+
 ## Dataset
 ### Fonte
 - [Kaggle: HousePricing](https://www.kaggle.com/greenwing1985/housepricing)
