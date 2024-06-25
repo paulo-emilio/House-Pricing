@@ -3,6 +3,8 @@
 ## Descrição do Projeto
 Este projeto utiliza a técnica de Regressão Linear para prever os preços de casas com base em diversas características. Além disso, um simulador interativo foi desenvolvido para permitir que os usuários insiram as características das casas e obtenham previsões de preços.
 
+![Simulador](screenshots_and_gifs/simulador.gif)
+
 ## Dataset
 ### Fonte
 - [Kaggle: HousePricing](https://www.kaggle.com/greenwing1985/housepricing)
@@ -44,21 +46,16 @@ Aqui estão alguns insights importantes obtidos a partir da análise exploratór
 3. **Fibra Óptica**: A presença de fibra óptica está associada a um aumento nos preços das casas.
 4. **Tipos de Mármore**: O acabamento com mármore (branco, preto ou indiano) também tem um impacto significativo no preço das casas.
 
-### Gráficos
-#### Distribuição dos Preços das Casas
-![Distribuição dos Preços](images/distribuicao_precos.png)
 
-#### Correlação entre Andares e Preço
-![Correlação entre Andares e Preço](images/correlacao_andares_preco.png)
+### Distribuição dos Preços dos Imóveis
 
-#### Impacto da Cidade no Preço
-![Impacto da Cidade no Preço](images/impacto_cidade_preco.png)
+<img src="screenshots_and_gifs/hist_precos.png" alt="Histograma Precos" width="60%">
 
-#### Presença de Fibra Óptica e Preço
-![Presença de Fibra Óptica e Preço](images/fibra_preco.png)
+### Impacto de Possuir 2 ou Mais Andares no Preço
+<img src="screenshots_and_gifs/andares.png" alt="Andares" width="60%">
 
-#### Tipos de Mármore e Preço
-![Tipos de Mármore e Preço](images/marmore_preco.png)
+### Impacto da Cidade no Preço
+<img src="screenshots_and_gifs/cidades.png" alt="Cidades" width="60%">
 
 ## Como Utilizar
 ### Notebook de Regressão Linear
