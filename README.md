@@ -3,7 +3,7 @@
 ## Visão Geral
 Este projeto utiliza a técnica de Regressão Linear para prever os preços de casas com base em diversas características. Além disso, um simulador interativo foi desenvolvido para permitir que os usuários insiram as características das casas e obtenham previsões de preços.
 
-![Simulador](screenshots_and_gifs/simulador.gif)
+![Simulador](figures/simulador.gif)
 
 ## Tecnologias Utilizadas
 - Python
@@ -56,13 +56,13 @@ Aqui estão alguns insights importantes obtidos a partir da análise exploratór
 
 ### Distribuição dos Preços dos Imóveis
 
-<img src="screenshots_and_gifs/hist_precos.png" alt="Histograma Precos" width="60%">
+<img src="figures/hist_precos.png" alt="Histograma Precos" width="60%">
 
 ### Impacto de Possuir 2 ou Mais Andares no Preço
-<img src="screenshots_and_gifs/andares.png" alt="Andares" width="60%">
+<img src="figures/andares.png" alt="Andares" width="60%">
 
 ### Impacto da Cidade no Preço
-<img src="screenshots_and_gifs/cidades.png" alt="Cidades" width="60%">
+<img src="figures/cidades.png" alt="Cidades" width="60%">
 
 ## Como Utilizar
 ### Notebook de Regressão Linear
